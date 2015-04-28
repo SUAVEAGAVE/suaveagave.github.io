@@ -1,0 +1,30 @@
+<html>
+
+<style>
+
+
+	header { background:blue;}
+	aside {
+		background:red
+			float: left;
+			width: 33.333333333%
+}
+	main {
+	background: yellow;
+	float: left;
+	width: 66.666666666%
+	}
+	
+	footer (background: purple;}
+</style>	
+<body>
+
+	<header> header </header>
+	<main> Content</main>
+	<aside> Left Sidebar</aside>
+	<footer> footer</footer>
+
+ 
+ </body>
+ 
+ </html>
